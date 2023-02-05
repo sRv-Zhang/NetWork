@@ -1,0 +1,11 @@
+﻿  server_pra.cpp
+D:\Study\Programs\server_pra\server_pra\data.h(25,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\server_pra\server_pra\data.h(31,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\server_pra\server_pra\data.h(54,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(64,78): warning C4312: “<function-style-cast>”: 从“int”转换到更大的“LPVOID”
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(36,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(79,43): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(79,43): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(96,46): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+D:\Study\Programs\server_pra\server_pra\server_pra.cpp(96,46): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+  server_pra.vcxproj -> D:\Study\Programs\server_pra\x64\Debug\server_pra.exe

@@ -1,0 +1,8 @@
+﻿  client_pra.cpp
+D:\Study\Programs\client_pra\client_pra\data.h(24,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\client_pra\client_pra\data.h(30,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\client_pra\client_pra\data.h(53,2): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Programs\client_pra\client_pra\client_pra.cpp(41,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Study\Programs\client_pra\client_pra\client_pra.cpp(45,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\Study\Programs\client_pra\client_pra\client_pra.cpp(90,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  client_pra.vcxproj -> D:\Study\Programs\client_pra\x64\Debug\client_pra.exe
